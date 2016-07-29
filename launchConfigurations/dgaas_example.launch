@@ -8,9 +8,9 @@
             },
             "Packager": "com.ibm.perfectstorm.cloudoe.packager.LiveEditDeploymentPackager"
         },
-        "Name": "dgaas_example",
+        "Name": "dgaas_example_dw",
         "Target": {
-            "Org": "ddc",
+            "Org": "dwakeman@us.ibm.com",
             "Space": "dev",
             "Url": "https://api.ng.bluemix.net"
         },
